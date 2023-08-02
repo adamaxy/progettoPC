@@ -14,15 +14,13 @@ public class objCpu {
 
     String Socket = "AM5";
 
-<<<<<<< HEAD
     String integratedGraphics = "Readon";
 
     String MaxMemorySupport = "128 GB";
     {
-}}
-=======
+}
    String integratedGraphics = "Readon";
 
      String MaxMemorySupport = "128 GB";
 }
->>>>>>> 59136a312c1d0285410e17d4e2a85f467008e20d
+
